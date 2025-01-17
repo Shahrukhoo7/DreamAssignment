@@ -1,0 +1,113 @@
+/* Full-width Marquee (Latest News) */
+.navbar-brand .marquee-container {
+  /* background-color: #1d1d1d; */
+  color: rgb(22, 175, 240);
+  padding: 5px;
+  /* align-items: end; */
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  width: 50%;
+  margin-left: 50px;
+  /* padding-bottom: 90px; */
+  text-transform: none;
+  text-decoration: none;
+}
+
+
+/* Custom Navbar */
+.custom-navbar {
+  background-color: #13212f76;
+  padding: 40px 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  position: fixed;
+  width: 100%;
+}
+
+.navbtn{
+  display: flex;
+  gap: 50px;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: bold;
+  height: 80px;
+  text-decoration:wavy;
+}
+
+.navbar-brand span{
+  font-family:'Great Vibes', cursive;
+}
+.navbar-logo {
+  height: 150px;
+  width: 160px;
+  margin-right: 15px;
+  border-radius: 50%;
+  margin-top: 17px;
+}
+
+.navbar-links {
+  display: flex;
+  align-items: center;
+  justify-content:first baseline;
+  gap: 30px;
+  margin-left: 200px;
+  text-decoration: none;
+}
+
+.navbar-links .nav-link {
+  color: #fff;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  transition: color 0.3s;
+  text-decoration: none;
+}
+
+.navbar-links .nav-link:hover {
+  color: #f39c12;
+}
+
+/* Authentication Buttons */
+.auth-buttons {
+  display: flex;
+  margin-left: 40%;
+  gap: 30px;
+  text-decoration: none;
+}
+
+.auth-buttons .btn-login,
+.auth-buttons .btn-register {
+  /* background-color: #12bbf3; */
+  color: #fff;
+  padding-left: 10px 20px;
+  border-radius: 25px;
+  text-transform: uppercase;
+  /* font-weight: bold; */
+  letter-spacing: 0.5px;
+  transition: background-color 0.3s;
+  /* margin-left: 70%; */
+  text-decoration: none;
+}
+.welcome-message {
+  color: #fff; /* Adjust the color as needed */
+  margin-right: 20px; /* Spacing between the welcome message and logout button */
+}
+
+
+.auth-buttons .btn-login:hover,
+.auth-buttons .btn-register:hover {
+  color: #e67e22;
+  text-decoration: none;
+}
+
+/* Make sure the container takes full width */
+.container-fluid {
+  width: 100%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+

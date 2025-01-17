@@ -1,0 +1,119 @@
+/* Background with centered form */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-size: cover;
+  background-color: #194a70e9;
+}
+
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 200px;
+}
+
+.form-wrapper {
+  width: 100%;
+  max-width: 400px;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(162, 197, 232, 0.697);
+  text-align: center;
+  animation: fadeIn 0.6s ease-in-out;
+  background-color: rgba(240, 248, 255, 0.367);
+  background: transparent;
+  /* background: url('../../public/assets/login_form.avif'); */
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.form-wrapper h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 2rem;
+  color: aliceblue
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+  color: #333333;
+  font-size: 1rem;
+  color: aliceblue;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 12px;
+  font-size: 1rem;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+  background: transparent;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.form-group .inpt{
+  width: 90%;
+}
+
+.form-group input:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.2);
+  outline: none;
+}
+
+button {
+  width: 40%;
+  padding: 12px;
+  background-color: #328cc4;
+  color: aliceblue;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+  transform: translateY(-1px);
+}
+
+button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+
+.error-message {
+  text-align: center;
+  color: #d9534f;
+  font-size: 0.9rem;
+  margin-top: 15px;
+}
+
+@media (max-width: 576px) {
+  .form-wrapper {
+    padding: 30px;
+    width: 90%;
+  }
+
+  h2 {
+    font-size: 1.8rem;
+  }
+
+  button {
+    font-size: 1.1rem;
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "phoneNumber": "123-456-7890",
+      "email": "john.doe@example.com",
+      "password": "hashedpassword123"
+    },
+    {
+      "id": "1ea7",
+      "name": "dream assignment",
+      "phoneNumber": "08016842346",
+      "email": "dreamassignmentoo7@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "6625",
+      "name": "hkhgfhgfhg",
+      "phoneNumber": "64545",
+      "email": "gvhetrd@fhgfh.com",
+      "password": "12345"
+    },
+    {
+      "id": "66e0",
+      "email": "gvhetrd@fhgfh.com",
+      "password": "12345"
+    },
+    {
+      "id": "c6df",
+      "email": "dreamassignmentoo7@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "7680",
+      "email": "dreamassignmentoo7@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "7d00",
+      "email": "dreamassignmentoo7@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "1f8f",
+      "name": "ssssssss",
+      "phoneNumber": "5555555555555555",
+      "email": "dreamassignmentoo7@gmail.com",
+      "password": "1111111"
+    },
+    {
+      "id": "7ba7",
+      "name": "dcadca",
+      "phoneNumber": "56465",
+      "email": "iuh@kjh.com",
+      "password": "123456"
+    },
+    {
+      "id": "1f24",
+      "name": "shahrukh ahmed",
+      "phoneNumber": "8016842346",
+      "email": "srkk@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "01e9",
+      "name": "Shah Rukh",
+      "phoneNumber": "8016842346",
+      "email": "ShahRukh@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "acba",
+      "name": "Humayun Kabir",
+      "phoneNumber": "9875540651",
+      "email": "Kabir@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "dd4c",
+      "name": "fffff hhhh",
+      "phoneNumber": "55555",
+      "email": "aaa@ggg.com",
+      "password": "123456"
+    },
+    {
+      "id": "88c6",
+      "name": "Shahrukh Ahmed",
+      "phoneNumber": "8016842346",
+      "email": "Shah@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "4af6",
+      "name": "Shaziya Yasmin",
+      "phoneNumber": "1234567890",
+      "email": "shaziya123@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "65bd",
+      "name": "srk",
+      "phoneNumber": "2222222",
+      "email": "sha@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "c8bf",
+      "name": "srki",
+      "phoneNumber": "8016842346",
+      "email": "srk@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "a1b2",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "message": "Great website! Keep up the amazing work."
+    },
+    {
+      "id": "c3d4",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "message": "I found the information very helpful. Thank you!"
+    },
+    {
+      "id": "e5f6",
+      "name": "Alice Johnson",
+      "email": "alice.j@example.com",
+      "message": "Looking forward to more updates and features."
+    },
+    {
+      "id": "g7h8",
+      "name": "Bob Brown",
+      "email": "bob.brown@example.com",
+      "message": "This is a fantastic initiative. Well done!"
+    },
+    {
+      "id": "i9j0",
+      "name": "Charlie Green",
+      "email": "charlie.green@example.com",
+      "message": "The content is excellent and easy to understand."
+    },
+    {
+      "id": "ed0c",
+      "name": "shahrukh",
+      "email": "shahrukh@gmail.com",
+      "message": "this is my msg"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "title": "10 Essential Tips for First-Year College Students",
+      "image": "/assets/blog1.WEBP",
+      "summary": "Navigate your first year with ease using these top tips for new college students.",
+      "content": "Starting college can be both exciting and daunting. Key tips include attending orientation, networking with peers, exploring campus resources, managing your time effectively, and seeking academic support when needed. Building a routine and staying organized will set you up for success."
+    },
+    {
+      "id": "2",
+      "title": "How to Manage Your Time Efficiently During Exams",
+      "image": "/assets/blog2.webp",
+      "summary": "Learn how to prioritize tasks and manage your study time effectively to maximize exam performance.",
+      "content": "Effective time management is crucial during exams. Create a study schedule, prioritize topics based on difficulty and importance, and stick to your plan. Use techniques like the Pomodoro Technique to stay focused, and ensure you take breaks to avoid burnout. Practice past papers to gauge your preparation."
+    },
+    {
+      "id": "3",
+      "title": "Common Mistakes in Technical Assignments and How to Avoid Them",
+      "image": "/assets/blog3.webp",
+      "summary": "Avoid common pitfalls in technical assignments with these expert tips and improve your grades.",
+      "content": "Technical assignments often come with their own set of challenges. Common mistakes include misunderstanding the problem, neglecting research, and failing to follow instructions. Ensure you thoroughly read the assignment brief, plan your approach, and check your work for accuracy and completeness."
+    },
+    {
+      "id": "4",
+      "title": "Maximizing Productivity with Online Learning Tools",
+      "image": "/assets/blog4.jpeg",
+      "summary": "Discover the top tools and techniques to stay productive in online learning environments.",
+      "content": "Online learning presents unique challenges, but with the right tools, you can stay productive. Use apps like Trello for task management, Zoom for collaborative study sessions, and Google Docs for efficient note-taking. Staying organized and minimizing distractions are key to success in online education."
+    },
+    {
+      "id": "5",
+      "title": "Effective Study Habits for Long-Term Retention",
+      "image": "/assets/blog5.png",
+      "summary": "Learn how to build effective study habits that help you retain information for the long-term.",
+      "content": "To retain information effectively, focus on active learning techniques like self-quizzing, teaching others, and using spaced repetition. Regular review, minimizing cramming, and creating a distraction-free study environment are essential for long-term retention of complex subjects."
+    },
+    {
+      "id": "6",
+      "title": "Top 5 Career Paths for Computer Science Majors",
+      "image": "/assets/blog6.jpg",
+      "summary": "Explore the top career options for computer science graduates and their unique benefits.",
+      "content": "Computer science graduates have diverse career opportunities, including software engineering, data science, cybersecurity, artificial intelligence, and cloud computing. Each field offers competitive salaries, growth potential, and the opportunity to solve complex technological problems."
+    },
+    {
+      "id": "7",
+      "title": "How to Overcome Writer's Block",
+      "image": "/assets/blog7.jpg",
+      "summary": "Discover effective strategies to overcome writer's block and boost creativity.",
+      "content": "Writer's block can be frustrating, but there are strategies to overcome it. Try freewriting, take regular breaks, and explore new sources of inspiration. Setting small goals, changing your writing environment, and reducing perfectionism can also help reignite creativity."
+    },
+    {
+      "id": "8",
+      "title": "Using Mind Mapping for Essay Planning",
+      "image": "/assets/blog8.jpg",
+      "summary": "Organize your thoughts with mind mapping to create well-structured essays.",
+      "content": "Mind mapping is a powerful tool for organizing ideas and creating a visual outline of an essay. Start with a central thesis and branch out to main points and supporting arguments. This technique helps in clearly structuring your essay and ensuring logical flow."
+    },
+    {
+      "id": "9",
+      "title": "How to Balance Work and Study",
+      "image": "/assets/blog9.jpg",
+      "summary": "Manage work and study with these practical tips for a balanced lifestyle.",
+      "content": "Balancing work and study requires careful planning. Prioritize tasks, set realistic goals, and avoid multitasking. Try to keep a healthy routine with breaks, and don’t hesitate to seek support from employers or mentors when workloads become overwhelming."
+    },
+    {
+      "id": "10",
+      "title": "5 Apps to Boost Your Focus While Studying",
+      "image": "/assets/blog10.jpg",
+      "summary": "Enhance your study focus with these top productivity apps.",
+      "content": "Maintaining focus while studying can be challenging, but apps like Forest, Focus@Will, Freedom, and Pomodone offer helpful tools. From blocking distractions to promoting productive study sessions, these apps can help you make the most of your study time."
+    },
+    {
+      "id": "11",
+      "title": "Tips for Public Speaking and Presentation Skills",
+      "image": "/assets/blog11.jpg",
+      "summary": "Develop your confidence with practical tips for public speaking and presentations.",
+      "content": "Effective public speaking involves preparation, confidence, and audience engagement. Practice your material, focus on clear articulation, and use visuals to support your points. Engage with your audience through eye contact and addressing questions."
+    },
+    {
+      "id": "12",
+      "title": "The Importance of Networking in College",
+      "image": "/assets/blog12.jpg",
+      "summary": "Understand why building a professional network is crucial for career growth.",
+      "content": "Networking opens doors to career opportunities and provides a platform for mentorship. Attend events, connect with professors and peers, and leverage social media to build meaningful relationships that could benefit your future career."
+    },
+    {
+      "id": "13",
+      "title": "How to Create an Impressive LinkedIn Profile",
+      "image": "/assets/blog13.jpg",
+      "summary": "Boost your career prospects with an optimized LinkedIn profile.",
+      "content": "A strong LinkedIn profile can help you make a great first impression. Use a professional photo, write a concise headline, and summarize your achievements and skills. Regularly updating your profile and networking can open new career opportunities."
+    },
+    {
+      "id": "14",
+      "title": "Understanding the Basics of Coding",
+      "image": "/assets/blog14.jpg",
+      "summary": "An introduction to coding and why it's a valuable skill.",
+      "content": "Learning to code can open numerous doors in the job market. Start with a programming language like Python or JavaScript, practice regularly, and consider projects to build real-world skills. Many resources online can help you begin your coding journey."
+    },
+    {
+      "id": "15",
+      "title": "Setting Realistic Goals for Academic Success",
+      "image": "/assets/blog15.jpg",
+      "summary": "Learn how to set achievable academic goals to improve performance.",
+      "content": "Set specific, measurable, achievable, relevant, and time-bound (SMART) goals to guide your studies. Break goals into smaller tasks, stay consistent, and regularly track progress. This approach can help you achieve long-term academic success."
+    },
+    {
+      "id": "16",
+      "title": "The Benefits of Extracurricular Activities",
+      "image": "/assets/blog16.jpg",
+      "summary": "Explore how extracurricular activities can positively impact your academic life.",
+      "content": "Participating in extracurricular activities builds skills like teamwork, time management, and leadership. In addition to boosting your resume, these activities offer a break from academics and help develop a well-rounded personality."
+    },
+    {
+      "id": "17",
+      "title": "How to Prepare for Group Projects",
+      "image": "/assets/blog17.jpg",
+      "summary": "Collaborate effectively in group projects with these preparation tips.",
+      "content": "Effective group work requires clear communication, task delegation, and accountability. Set expectations early, assign roles, and schedule regular check-ins to ensure project milestones are met. Address conflicts calmly and stay focused on collective goals."
+    },
+    {
+      "id": "18",
+      "title": "Developing a Growth Mindset",
+      "image": "/assets/blog18.jpg",
+      "summary": "Adopt a growth mindset to overcome challenges and achieve your potential.",
+      "content": "A growth mindset focuses on learning and improvement. Embrace challenges, learn from feedback, and view failures as opportunities for growth. This approach can help you achieve both academic and personal goals."
+    },
+    {
+      "id": "19",
+      "title": "Improving Reading Comprehension Skills",
+      "image": "/assets/blog19.jpg",
+      "summary": "Enhance your ability to understand and retain what you read.",
+      "content": "Reading comprehension can be improved with practice. Try summarizing sections in your own words, asking questions, and annotating as you read. Active reading helps retain information and improves understanding."
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Basic Web Hosting",
+      "price": "$5.99",
+      "image": "/assets/prdct1.jpg",
+      "description": "Reliable and affordable web hosting solution for small to medium businesses."
+    },
+    {
+      "id": "2",
+      "name": "E-commerce Package",
+      "price": "$19.99",
+      "image": "/assets/prdct2.jpg",
+      "description": "A complete package for starting your online store, including website design."
+    },
+    {
+      "id": "3",
+      "name": "SEO Optimization",
+      "price": "$15.99",
+      "image": "/assets/prdct3.jpg",
+      "description": "Improve your website's visibility on search engines with our expert SEO services."
+    },
+    {
+      "id": "4",
+      "name": "Case Study Analysis",
+      "price": "$200",
+      "image": "/assets/prdct4.jpg",
+      "description": "In-depth analysis and writing for case studies in various disciplines."
+    },
+    {
+      "id": "5",
+      "name": "Digital Marketing Consultation",
+      "price": "$49.99",
+      "image": "/assets/prdct5.jpg",
+      "description": "Get tailored marketing strategies to boost your online presence and reach your target audience."
+    },
+    {
+      "id": "6",
+      "name": "Content Writing Service",
+      "price": "$79.99",
+      "image": "/assets/prdct6.jpg",
+      "description": "Professional content writing services for blogs, websites, and marketing materials."
+    },
+    {
+      "id": "7",
+      "name": "Graphic Design Services",
+      "price": "$89.99",
+      "image": "/assets/prdct7.jpg",
+      "description": "Creative graphic design for branding, advertising, and promotional materials."
+    },
+    {
+      "id": "8",
+      "name": "Mobile App Development",
+      "price": "$999.99",
+      "image": "/assets/prdct8.jpg",
+      "description": "Custom mobile app development for iOS and Android platforms to meet your business needs."
+    },
+    {
+      "id": "9",
+      "name": "Video Marketing Services",
+      "price": "$499.99",
+      "image": "/assets/prdct9.jpg",
+      "description": "Engaging video production services to promote your brand and connect with your audience."
+    },
+    {
+      "id": "10",
+      "name": "Cloud Hosting Solutions",
+      "price": "$49.99",
+      "image": "/assets/prdct10.jpg",
+      "description": "Scalable and flexible cloud hosting solutions tailored for businesses of all sizes."
+    },
+    {
+      "id": "11",
+      "name": "Email Marketing Service",
+      "price": "$39.99",
+      "image": "/assets/prdct11.jpg",
+      "description": "Create and manage effective email marketing campaigns to engage your audience."
+    },
+    {
+      "id": "12",
+      "name": "PPC Advertising Management",
+      "price": "$150.00",
+      "image": "/assets/prdct12.jpg",
+      "description": "Optimize your pay-per-click campaigns for maximum ROI and traffic generation."
+    },
+    {
+      "id": "13",
+      "name": "Data Analysis and Reporting",
+      "price": "$89.99",
+      "image": "/assets/prdct13.jpg",
+      "description": "Comprehensive data analysis and reporting services to help you make informed decisions."
+    },
+    {
+      "id": "14",
+      "name": "UI/UX Design Services",
+      "price": "$299.99",
+      "image": "/assets/prdct14.jpg",
+      "description": "Design user-friendly interfaces and enhance user experience for web and mobile applications."
+    },
+    {
+      "id": "15",
+      "name": "Online Course Creation",
+      "price": "$250.00",
+      "image": "/assets/prdct15.jpg",
+      "description": "Get assistance in creating and launching your own online courses for education and training."
+    },
+    {
+      "id": "16",
+      "name": "Virtual Assistant Services",
+      "price": "$25.00",
+      "image": "/assets/prdct16.jpg",
+      "description": "Professional virtual assistant services to help you manage your daily tasks and responsibilities."
+    }
+  ]
+}

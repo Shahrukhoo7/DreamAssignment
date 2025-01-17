@@ -1,0 +1,149 @@
+/* Background and container styling */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  /* background: url('https://via.placeholder.com/1500x1000') no-repeat center center fixed; */
+  background-size: cover;
+}
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.login-box {
+  width: 100%;
+  max-width: 400px;
+  padding: 30px;
+  /* background: rgba(255, 255, 255, 0.9); */
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(162, 197, 232, 0.697);
+  text-align: center;
+  animation: fadeIn 0.6s ease-in-out;
+  background-color: rgba(240, 248, 255, 0.367);
+  background: transparent;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Heading */
+.login-box h2 {
+  font-size: 2rem;
+  color: white;
+  margin-bottom: 20px;
+}
+
+/* Form styling */
+.form-group {
+  margin-bottom: 20px;
+  text-align: left;
+  color: aliceblue;
+}
+
+.form-group .inpt{
+  width: 90%;
+}
+
+.form-group .lbl{
+  color: aliceblue;
+}
+
+/* .form-group label {
+  display: block;
+  font-weight: 600;
+  color: #333333;
+  font-size: 1rem;
+  margin-bottom: 8px;
+} */
+.form-group input::placeholder{
+  color: aliceblue;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #cccccc;
+  border-radius: 6px;
+  color: aliceblue;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.form-group input:focus {
+  border-color: #1976d2;
+  box-shadow: 0 0 8px rgba(25, 118, 210, 0.2);
+  outline: none;
+}
+
+/* Button styling specifically for login page */
+.login-btn {
+  width: 30%;
+  padding: 12px;
+  background-color: #328cc4;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.login-btn:hover {
+  background-color: #115293;
+  transform: translateY(-1px);
+}
+
+.login-btn:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+
+/* Error and Snackbar Messages */
+.error-message {
+  color: red;
+  font-size: 0.9rem;
+  margin-bottom: 10px;
+}
+
+
+
+/* Register link styling */
+.register-link {
+  margin-top: 15px;
+  font-size: 0.9rem;
+}
+
+.register-link p{
+  color: aliceblue;
+}
+.register-link .lnk{
+  color: aliceblue;
+}
+
+.register-link a {
+  color: #1976d2;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.register-link a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 576px) {
+  .login-box {
+    width: 90%;
+    padding: 20px;
+  }
+
+  h2 {
+    font-size: 1.8rem;
+  }
+}
